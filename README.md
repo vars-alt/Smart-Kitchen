@@ -22,7 +22,7 @@ Smart Kitchen is an intelligent web-based platform that combines **Live2D avatar
 - **Computer Vision**: MobileVNet
 - **Speech**: Web Speech API (TTS)
 
-## Usage
+## 🧪 Usage
 
 - Receive smart recipe suggestions
 - Utilise Ingredients that are available in your fridge
